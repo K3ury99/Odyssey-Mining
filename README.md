@@ -5,15 +5,13 @@
 > This project represents countless hours of development, testing, and fine-tuning to deliver an engaging and efficient simulation experience. I hope you enjoy it as much as I enjoyed creating it. Wishing you a fantastic adventure among the stars!  
 
 <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/97f5088f-e997-4abf-ba5f-11979b23e266" width="25%"></img>   
+  <img src="https://github.com/user-attachments/assets/86a09b21-9245-4ad2-8727-b5c1e7b14c8b" width="25%"></img>   
 </div>
 
 # 🌌 Game Overview  
 - **Objective**: Collect **100 resources** by mining four unique planets: Mars, Europa, Ganymede, and Titan.  
 - **Gameplay**: Tasks run in parallel, simulating real-time resource collection with varying speeds for each planet.  
 - **Completion**: Planets complete their mining processes independently. The game concludes when the total resource goal is met.  
-
----
 
 # 🧑‍💻 How to Play  
 1. Clone this repository:  
