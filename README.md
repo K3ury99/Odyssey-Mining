@@ -5,7 +5,7 @@
 > This project represents countless hours of development, testing, and fine-tuning to deliver an engaging and efficient simulation experience. I hope you enjoy it as much as I enjoyed creating it. Wishing you a fantastic adventure among the stars!  
 
 <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/86a09b21-9245-4ad2-8727-b5c1e7b14c8b" width="25%"></img>   
+  <img src="https://github.com/user-attachments/assets/86a09b21-9245-4ad2-8727-b5c1e7b14c8b" width="35%"></img>   
 </div>
 
 # 🌌 Game Overview  
