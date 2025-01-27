@@ -1,4 +1,4 @@
-# 🚀 Space Mining Simulation 🌌  
+# 🚀 Odyssey Mining 🌌  
 > [!TIP]  
 > Welcome to the **Odyssey Mining**, a thrilling game where you embark on an interstellar journey to collect resources from distant planets! This project demonstrates advanced asynchronous programming using C# and highlights key features like task continuations, parallel processing, and real-time updates.  
 >
